@@ -1,0 +1,5 @@
+temperature_ramps.html
+OLD		NEW
+#9e247b		#67cbdf
+158, 36, 123	103, 203, 223
+#005A9D		#e9c155
